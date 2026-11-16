@@ -6,6 +6,13 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/). 
 
 ---
 
+## [Unreleased]
+
+### 🐛 Fixed
+- 📖 Species search ignores upper and lower case: `dragon` now finds Dragon (#7).
+
+---
+
 ## [2024.06] — June 2024
 
 ### ✨ Added
